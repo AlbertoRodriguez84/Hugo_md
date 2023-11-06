@@ -15,9 +15,9 @@ theme =['relearn']
         title = "Using Markdown"
         weight = 2
         languageName = "English"
-        ContentDir="/content/"
+        ContentDir="/content/en"
    [Languages.fr]
         title = "Utiliser la démarque"
         weight = 3
         languageName = "Français"
-        ContentDir="/content/"
+        ContentDir="/content/fr"
