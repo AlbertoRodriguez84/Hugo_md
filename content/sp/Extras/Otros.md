@@ -1,5 +1,5 @@
 +++
-title = 'Extras'
+title = 'Otros'
 date = 2023-11-01T19:13:40+01:00
 draft = false
 +++
