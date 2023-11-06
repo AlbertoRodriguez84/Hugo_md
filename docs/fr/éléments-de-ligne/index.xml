@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Éléments de ligne on Exemple d&#39;utilisation des langues</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/index.html</link>
+    <description>Recent content in Éléments de ligne on Exemple d&#39;utilisation des langues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:28 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Images</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/imagenes/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:47 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/imagenes/index.html</guid>
+      <description>L&amp;rsquo;insertion d&amp;rsquo;une image avec Markdown se fait de manière pratiquement identique à l&amp;rsquo;insertion de liens.
+Seulement dans ce cas, vous devrez ajouter un point d&amp;rsquo;exclamation !** au début et le lien ne sera autre que l&amp;rsquo;emplacement de l&amp;rsquo;image.
+![Texte alternatif](/path/to/the/image.jpg)Le texte alternatif est ce qui serait affiché si le chargement de l&amp;rsquo;image échouait.
+Vous pouvez également ajouter un titre alternatif entre guillemets à la fin du chemin. Ce serait le titre affiché lorsque vous laisserez le curseur de la souris sur l&amp;rsquo;image.</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/codigo/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:40 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/codigo/index.html</guid>
+      <description>Selon le type de publications (notamment celles de nature technique), vous devrez ajouter de petites sections où vous pourrez afficher du code d&amp;rsquo;une autre langue, des raccourcis clavier ou d&amp;rsquo;autres contenus qui ne doivent pas être traités comme tels.
+Pour cela, vous disposez de deux alternatives.
+Code pur &amp;lt;code&amp;gt; Le moyen le plus simple d&amp;rsquo;écrire du code dans Markdown est de placer le texte entre deux guillemets simples `. Cela correspond à la balise HTML &amp;lt;code&amp;gt; &amp;rsquo;&amp;rsquo;&#39; C&#39;est une ligne de code &amp;rsquo;&#39;&#39;</description>
+    </item>
+    <item>
+      <title>Liens</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/links-o-enlaces/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:18 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/links-o-enlaces/index.html</guid>
+      <description>Ajouter des liens vers une publication, plus que courant, est aujourd&amp;rsquo;hui quelque chose de presque obligatoire. Avec Markdown, vous aurez plusieurs façons de le faire.
+Liens ou liens en ligne Ce sont les liens d’une vie. Comme leur nom l’indique, ils sont conformes au texte.
+Ils sont créés en écrivant le mot ou le texte lié entre [] crochets, et le lien en question entre () parenthèses.
+| MARQUAGE | RÉSULTAT | | [lien en ligne](http://www.</description>
+    </item>
+    <item>
+      <title>Accentuation (gras et italique)</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/enfasis/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:09 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/enfasis/index.html</guid>
+      <description>Markdown utilise des astérisques ou des soulignements pour mettre l&amp;rsquo;accent.
+Vous devrez simplement envelopper des mots ou des textes dans ces symboles pour obtenir des italiques ou gras.
+MARQUAGE RÉSULTAT *italique* cursive _italique_ cursive **gras** gras __gras__ gras Bien entendu, si vous souhaitez utiliser les deux types d’accentuation, il vous suffit de combiner la syntaxe, en enveloppant le mot entre trois astérisques ou trois traits de soulignement.
+MARQUAGE RÉSULTAT ***italique et gras*** italique et gras ___italique et gras___ italique et gras </description>
+    </item>
+  </channel>
+</rss>

@@ -6,6 +6,28 @@
     <description>Recent content on Exemple d&#39;utilisation des langues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:13:47 +0100</lastBuildDate>
     <atom:link href="https://albertorodriguez84.github.io/Hugo_md/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Éléments de ligne</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:11:28 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-ligne/index.html</guid>
+      <description>Ici, il montre les éléments de ligne</description>
+    </item>
+    <item>
+      <title>Éléments de bloc</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:11:25 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/index.html</guid>
+      <description>Ici, il montre les éléments du bloc</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/contact/index.html</link>
+      <pubDate>Wed, 25 Oct 2023 19:01:27 +0200</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/contact/index.html</guid>
+      <description>C&amp;rsquo;est une page créée par Alberto Rodriguez</description>
+    </item>
   </channel>
 </rss>

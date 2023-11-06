@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Éléments de bloc on Exemple d&#39;utilisation des langues</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/index.html</link>
+    <description>Recent content in Éléments de bloc on Exemple d&#39;utilisation des langues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:25 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Règles horizontales</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/reglas-horizontales/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:49 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/reglas-horizontales/index.html</guid>
+      <description>Les règles horizontales sont utilisées pour séparer les sections de manière visuelle. Vous les voyez constamment dans cet article car je les utilise pour séparer les différents éléments de la syntaxe Markdown.
+Pour les créer, sur une ligne vierge, vous devez inclure trois des éléments suivants : des astérisques, des traits d&amp;rsquo;union ou des traits de soulignement.
+C&amp;rsquo;est-à-dire
+*** --- ___Vous pouvez également les séparer par un espace blanc pour une esthétique pure.</description>
+    </item>
+    <item>
+      <title>Bloquer les codes</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/codigos-de-bloque/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:38 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/codigos-de-bloque/index.html</guid>
+      <description>Si vous souhaitez créer un bloc entier contenant du code. La seule chose à faire est de placer ledit paragraphe entre deux lignes composées de trois ~ petits tildes.
+Comme ça:
+~~~ Création de codes de bloc. Vous pouvez ajouter autant de lignes et de paragraphes que vous le souhaitez. ~~~De cette façon, vous obtiendrez le résultat suivant :
+Création de codes de bloc. Vous pouvez ajouter autant de lignes et de paragraphes que vous le souhaitez.</description>
+    </item>
+    <item>
+      <title>Listes</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/listas/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:24 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/listas/index.html</guid>
+      <description>Contrairement à ce qui se passe en HTML, générer des listes dans Markdown est extrêmement simple. Vous pouvez rencontrer deux types.
+Listes non ordonnées Pour créer des listes non ordonnées, utilisez * astérisques, ```` -**traits d&#39;union** ou+``` symbole plus .
+- Élément de liste 1 - Élément de liste 2 * Élément de liste 3 * Élément de liste 4 + Élément de liste 5 + Élément de liste 6Peu importe l&amp;rsquo;élément que vous choisissez, vous pouvez même les échanger.</description>
+    </item>
+    <item>
+      <title>Citations</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/citas/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:19 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/citas/index.html</guid>
+      <description>Les citations seront générées en utilisant le caractère supérieur à &amp;gt; au début du bloc de texte.
+&amp;gt; Un pays, une civilisation se juge à la manière dont elle traite ses animaux. -Mahatma Gandhi Un pays, une civilisation se juge à la manière dont elle traite ses animaux. -Mahatma Gandhi
+Si la citation en question est composée de plusieurs paragraphes, vous devez ajouter le même symbole &amp;gt; au début de chacun d&amp;rsquo;eux.</description>
+    </item>
+    <item>
+      <title>En-têtes</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/encabezados/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:12 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/encabezados/index.html</guid>
+      <description># pads sont l&amp;rsquo;une des méthodes utilisées dans Markdown pour créer des en-têtes. Vous devez les utiliser ** en ajoutant un pour chaque niveau **.
+C&amp;rsquo;est-à-dire,
+#En-tête 1 ## Titre 2 ### Titre 3 #### Rubrique 4 ##### Rubrique 5 ###### Rubrique 6Cela correspond à
+#En-tête 1
+Titre 2 Titre 3 Rubrique 4 Rubrique 5 Rubrique 6 Vous pouvez également fermer les titres avec le même nombre de dièses, par exemple en tapant ### Titre 3 ###.</description>
+    </item>
+    <item>
+      <title>Paragraphes et sauts de ligne</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/parrafos-y-saltos-de-linea/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:11:34 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/%C3%A9l%C3%A9ments-de-bloc/parrafos-y-saltos-de-linea/index.html</guid>
+      <description>Pour générer un nouveau paragraphe dans Markdown, séparez simplement le texte par une ligne vide (en appuyant deux fois sur Entrée)
+Comme avec HTML, Markdown ne prend pas en charge les doubles lignes vides, donc si vous essayez de les générer, elles n&amp;rsquo;en feront qu&amp;rsquo;une une fois traitées.
+Pour faire un saut de ligne et commencer une phrase sur une ligne suivante dans le même paragraphe, vous devrez appuyer deux fois sur la barre d&amp;rsquo;espace avant d&amp;rsquo;appuyer une fois sur Entrée.</description>
+    </item>
+  </channel>
+</rss>

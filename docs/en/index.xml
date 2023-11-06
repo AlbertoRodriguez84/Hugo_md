@@ -6,6 +6,28 @@
     <description>Recent content on Example use language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:13:47 +0100</lastBuildDate>
     <atom:link href="https://albertorodriguez84.github.io/Hugo_md/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The line elements</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:11:28 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/index.html</guid>
+      <description>In this section it shows the line elements</description>
+    </item>
+    <item>
+      <title>Block elements</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:11:25 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/index.html</guid>
+      <description>In this section it shows the block elements</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/contact/index.html</link>
+      <pubDate>Wed, 25 Oct 2023 19:01:27 +0200</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/contact/index.html</guid>
+      <description>It is a page created by Alberto Rodriguez</description>
+    </item>
   </channel>
 </rss>

@@ -1,18 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/index.html</loc>
+    <lastmod>2023-11-01T19:13:47+01:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://albertorodriguez84.github.io/Hugo_md/index.html" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://albertorodriguez84.github.io/Hugo_md/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://albertorodriguez84.github.io/Hugo_md/en/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://albertorodriguez84.github.io/Hugo_md/fr/index.html" />
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/imagenes/index.html</loc>
+    <lastmod>2023-11-01T19:13:47+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/codigo/index.html</loc>
+    <lastmod>2023-11-01T19:13:40+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/links-o-enlaces/index.html</loc>
+    <lastmod>2023-11-01T19:13:18+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/enfasis/index.html</loc>
+    <lastmod>2023-11-01T19:13:09+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/reglas-horizontales/index.html</loc>
+    <lastmod>2023-11-01T19:12:49+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/codigos-de-bloque/index.html</loc>
+    <lastmod>2023-11-01T19:12:38+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/listas/index.html</loc>
+    <lastmod>2023-11-01T19:12:24+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/citas/index.html</loc>
+    <lastmod>2023-11-01T19:12:19+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/encabezados/index.html</loc>
+    <lastmod>2023-11-01T19:12:12+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/parrafos-y-saltos-de-linea/index.html</loc>
+    <lastmod>2023-11-01T19:11:34+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/index.html</loc>
+    <lastmod>2023-11-01T19:11:28+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/index.html</loc>
+    <lastmod>2023-11-01T19:11:25+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://albertorodriguez84.github.io/Hugo_md/en/contact/index.html</loc>
+    <lastmod>2023-10-25T19:01:27+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://albertorodriguez84.github.io/Hugo_md/en/contact/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://albertorodriguez84.github.io/Hugo_md/en/contact/index.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://albertorodriguez84.github.io/Hugo_md/fr/contact/index.html" />
+  </url>
+  <url>
     <loc>https://albertorodriguez84.github.io/Hugo_md/en/categories/index.html</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://albertorodriguez84.github.io/Hugo_md/categories/index.html" />
     <xhtml:link rel="alternate" hreflang="es" href="https://albertorodriguez84.github.io/Hugo_md/categories/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://albertorodriguez84.github.io/Hugo_md/en/categories/index.html" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://albertorodriguez84.github.io/Hugo_md/fr/categories/index.html" />
-  </url>
-  <url>
-    <loc>https://albertorodriguez84.github.io/Hugo_md/en/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://albertorodriguez84.github.io/Hugo_md/index.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://albertorodriguez84.github.io/Hugo_md/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://albertorodriguez84.github.io/Hugo_md/en/index.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://albertorodriguez84.github.io/Hugo_md/fr/index.html" />
   </url>
   <url>
     <loc>https://albertorodriguez84.github.io/Hugo_md/en/tags/index.html</loc>

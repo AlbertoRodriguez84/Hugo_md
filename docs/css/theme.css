@@ -244,7 +244,7 @@ dd {
 }
 
 #R-content-wrapper {
-    --ps-rail-hover-color: rgba(243, 146, 0, 0.25);
+    --ps-rail-hover-color: rgba( 176, 176, 176, .25 );
     display: flex;
     flex-direction: column;
     flex: 1; /* fill rest of vertical space */
