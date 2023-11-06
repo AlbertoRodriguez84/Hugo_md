@@ -7,17 +7,17 @@ theme =['relearn']
 
 [Languages]
     [Languages.es]
-        title = "Ejemplo para el uso de idiomas"
+        title = "Uso de Markdown"
         weight = 1
         languageName = "Español"
         ContentDir="/content/sp"
     [Languages.en]
-        title = "Example use language"
+        title = "Using Markdown"
         weight = 2
         languageName = "English"
         ContentDir="/content/en"
    [Languages.fr]
-        title = "Exemple d'utilisation des langues"
+        title = "Utiliser la démarque"
         weight = 3
         languageName = "Français"
         ContentDir="/content/fr"
