@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autres caractéristiques on Utiliser la démarque</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/fr/extras/index.html</link>
+    <description>Recent content in Autres caractéristiques on Utiliser la démarque</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:28 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/fr/extras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autres</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/fr/extras/otros/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:40 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/fr/extras/otros/index.html</guid>
+      <description>Vidéos intégrées Nous pouvons afficher une vidéo embarquée avec le code suivant :
+{{ &amp;lt;youtube 6H0jLIKEe0uw &amp;gt; }}Ici, nous pouvons voir une petite introduction à Hugo.
+Boutons En reprenant l&amp;rsquo;exemple de la vidéo précédente, au lieu de la montrer, nous pouvons mettre un bouton qui renvoie à la vidéo et prend moins de place sur notre site Web.
+Pour mettre le bouton il faut mettre la syntaxe suivante :
+{{ % button href=&amp;#34;https://youtu.</description>
+    </item>
+  </channel>
+</rss>

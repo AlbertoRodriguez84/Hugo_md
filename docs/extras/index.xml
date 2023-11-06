@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otras funcionalidades on Uso de Markdown</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/extras/index.html</link>
+    <description>Recent content in Otras funcionalidades on Uso de Markdown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:28 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/extras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Otros</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/extras/otros/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:40 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/extras/otros/index.html</guid>
+      <description>Videos incrustados Podemos mostrar un video incrustado con el siguiente codigo:
+{{ &amp;lt; youtube 6H0jLIKe0uw &amp;gt; }}Aquí podemos ver una pequeña introducción a Hugo.
+Botones Siguiendo con el ejemplo del video anterior, en vez de mostrarlo podemos poner un boton que nos enlace al video y ocupe menos en nuestra web.
+Para poner el boton tener que poner la siguiente sintaxis:
+{{ % button href=&amp;#34;https://youtu.be/6H0jLIKe0uw&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; icon-position=&amp;#34;right&amp;#34; % }}Para ver el video pulsa aqui{{ % /button % }}Para ver el video pulsa aqui</description>
+    </item>
+  </channel>
+</rss>

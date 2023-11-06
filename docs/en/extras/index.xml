@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other features on Using Markdown</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/en/extras/index.html</link>
+    <description>Recent content in Other features on Using Markdown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:28 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/en/extras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Others</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/extras/otros/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:40 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/extras/otros/index.html</guid>
+      <description>Embedded videos We can display an embedded video with the following code:
+{{ &amp;lt; youtube 6H0jLIKe0uw &amp;gt; }}Here we can see a small introduction to Hugo.
+Buttons Continuing with the example of the previous video, instead of showing it we can put a button that links to the video and takes up less space on our website.
+To put the button you have to put the following syntax:
+{{ % button href=&amp;#34;https://youtu.</description>
+    </item>
+  </channel>
+</rss>
