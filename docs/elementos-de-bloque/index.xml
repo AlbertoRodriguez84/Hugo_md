@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elementos de bloque on Ejemplo para el uso de idiomas</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/index.html</link>
+    <description>Recent content in Elementos de bloque on Ejemplo para el uso de idiomas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:25 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reglas horizontales</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/reglas-horizontales/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:49 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/reglas-horizontales/index.html</guid>
+      <description>Las reglas horizontales se utilizan para separar secciones de una manera visual. Las estás viendo constantemente en este artículo ya que las estoy utilizando para separar los diferentes elementos de sintaxis de Markdown.
+Para crearlas, en una línea en blanco deberás incluir tres de los siguientes elementos: asteriscos, guiones, o guiones bajos.
+Es decir
+*** --- ___También puedes separarlos mediante un espacio en blanco por pura estética.
+* * * - - - _ _ _</description>
+    </item>
+    <item>
+      <title>Codigos de bloque</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/codigos-de-bloque/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:38 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/codigos-de-bloque/index.html</guid>
+      <description>Si quieres crear un bloque entero que contenga código. Lo único que tienes que hacer es encerrar dicho párrafo entre dos líneas formadas por tres ~ virgulillas.
+Tal que así:
+~~~ Creando códigos de bloque. Puedes añadir tantas líneas y párrafos como quieras. ~~~De esta forma, obtendrás el siguiente resultado:
+Creando códigos de bloque. Puedes añadir tantas líneas y párrafos como quieras. </description>
+    </item>
+    <item>
+      <title>Listas</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/listas/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:24 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/listas/index.html</guid>
+      <description>A diferencia de lo que ocurre en HTML, generar listas en Markdown es tremendamente sencillo. Puedes encontrarte con dos tipos.
+Listas desordenadas Para crear listas desordenadas utiliza * asteriscos, - guiones, o + símbolo de suma.
+- Elemento de lista 1 - Elemento de lista 2 * Elemento de lista 3 * Elemento de lista 4 + Elemento de lista 5 + Elemento de lista 6Da igual qué elemento escojas, incluso puedes intercambiarlos.</description>
+    </item>
+    <item>
+      <title>Citas</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/citas/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:19 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/citas/index.html</guid>
+      <description>Las citas se generar utilizando el carácter mayor que &amp;gt; al comienzo del bloque de texto.
+&amp;gt; Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi Un país, una civilización se puede juzgar por la forma en que trata a sus animales. — Mahatma Gandhi
+Si la cita en cuestión se compone de varios párrafos, deberás añadir el mismo símbolo &amp;gt; al comienzo de cada uno de ellos.</description>
+    </item>
+    <item>
+      <title>Encabezados</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/encabezados/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:12 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/encabezados/index.html</guid>
+      <description>Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados. Debes usarlos añadiendo uno por cada nivel.
+Es decir,
+# Encabezado 1 ## Encabezado 2 ### Encabezado 3 #### Encabezado 4 ##### Encabezado 5 ###### Encabezado 6Se corresponde con
+Encabezado 1 Encabezado 2 Encabezado 3 Encabezado 4 Encabezado 5 Encabezado 6 También puedes cerrar los encabezados con el mismo número de almohadillas, por ejemplo escribiendo ### Encabezado 3 ###.</description>
+    </item>
+    <item>
+      <title>Parrafos y saltos de linea</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/parrafos-y-saltos-de-linea/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:11:34 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/elementos-de-bloque/parrafos-y-saltos-de-linea/index.html</guid>
+      <description>Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
+Al igual que sucede con HTML, Markdown no soporta dobles líneas en blanco, así que si intentas generarlas estas se convertirán en una sola al procesarse.
+Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.</description>
+    </item>
+  </channel>
+</rss>

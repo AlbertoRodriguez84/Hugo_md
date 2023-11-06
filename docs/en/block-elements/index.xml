@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Block elements on Example use language</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/index.html</link>
+    <description>Recent content in Block elements on Example use language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:25 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/en/block-elements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Horizontal rulers</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/reglas-horizontales/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:49 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/reglas-horizontales/index.html</guid>
+      <description>Horizontal rulers are used to separate sections in a visual way. You are seeing them constantly in this article as I am using them to separate the different elements of Markdown syntax.
+To create them, on a blank line you must include three of the following elements: asterisks, hyphens, or underscores.
+That is to say
+*** --- ___You can also separate them with a white space for pure aesthetics.
+* * * - - - _ _ _</description>
+    </item>
+    <item>
+      <title>Block codes</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/codigos-de-bloque/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:38 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/codigos-de-bloque/index.html</guid>
+      <description>If you want to create an entire block containing code. The only thing you have to do is enclose said paragraph between two lines made up of three ~ little tildes.
+Like this:
+~~~ Creating block codes. You can add as many lines and paragraphs as you want. ~~~In this way, you will obtain the following result:
+Creating block codes. You can add as many lines and paragraphs as you want.</description>
+    </item>
+    <item>
+      <title>List</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/listas/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:24 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/listas/index.html</guid>
+      <description>Unlike what happens in HTML, generating lists in Markdown is extremely simple. You can meet two types.
+Unordered lists To create unordered lists use * asterisks, ```` -**hyphens**, or+``` plus symbol .
+- List item 1 - List item 2 * List item 3 * List item 4 + List item 5 + List item 6It doesn&amp;rsquo;t matter which element you choose, you can even exchange them. They will all look the same when processed.</description>
+    </item>
+    <item>
+      <title>Citations</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/citas/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:19 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/citas/index.html</guid>
+      <description>Citations will be generated using the character greater than &amp;gt; at the beginning of the text block.
+&amp;gt; A country, a civilization can be judged by the way it treats its animals. - Mahatma Gandhi A country, a civilization can be judged by the way it treats its animals. - Mahatma Gandhi
+If the quote in question is made up of several paragraphs, you must add the same &amp;gt; symbol at the beginning of each of them.</description>
+    </item>
+    <item>
+      <title>Headers</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/encabezados/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:12:12 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/encabezados/index.html</guid>
+      <description># pads are one of the methods used in Markdown to create headers. You must use them ** adding one for each level **.
+That is to say,
+#Header 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6It corresponds to
+#Header 1
+Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 You can also close headings with the same number of hash marks, for example by typing ### Heading 3 ###.</description>
+    </item>
+    <item>
+      <title>Paragraphs and line breaks</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/parrafos-y-saltos-de-linea/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:11:34 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/block-elements/parrafos-y-saltos-de-linea/index.html</guid>
+      <description>To generate a new paragraph in Markdown simply separate the text with a blank line (by pressing enter twice)
+As with HTML, Markdown does not support double blank lines, so if you try to generate them they will become one when processed.
+To make a line break and start a sentence on a next line within the same paragraph, you will have to press the space bar twice before pressing enter once.</description>
+    </item>
+  </channel>
+</rss>

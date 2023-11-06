@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The line elements on Example use language</title>
+    <link>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/index.html</link>
+    <description>Recent content in The line elements on Example use language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 19:11:28 +0100</lastBuildDate>
+    <atom:link href="https://albertorodriguez84.github.io/Hugo_md/en/line-elements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Images</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/imagenes/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:47 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/imagenes/index.html</guid>
+      <description>Inserting an image with Markdown is done in a practically identical way to inserting links.
+Only in this case, you will have to add an !** exclamation** symbol at the beginning and the link will be none other than the location of the image.
+The alt text is what would be displayed if the image load failed.
+You can also add an alternative title in quotes at the end of the route.</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/codigo/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:40 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/codigo/index.html</guid>
+      <description>Depending on the type of publications (especially those of a technical nature), you will need to add small sections where you can show code from another language, keyboard shortcuts, or other content that should not be treated as such.
+For this you have two alternatives available.
+Pure code &amp;lt;code&amp;gt; The easiest way to write code in Markdown is to wrap the text in two single quotes `. This corresponds to the HTML tag &amp;lt;code&amp;gt; ´´´ This is a line of code ´´´</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/links-o-enlaces/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:18 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/links-o-enlaces/index.html</guid>
+      <description>Adding links to a publication, more than common, today is something almost mandatory. With Markdown you will have several ways to do it.
+Links or online links They are the links of a lifetime. As their name suggests, they are in line with the text.
+They are created by writing the linked word or text between [] brackets, and the link in question between () parentheses.
+| MARKDOWN | RESULT | | [online link](http://www.</description>
+    </item>
+    <item>
+      <title>Emphasis (bold and cursive)</title>
+      <link>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/enfasis/index.html</link>
+      <pubDate>Wed, 01 Nov 2023 19:13:09 +0100</pubDate>
+      <guid>https://albertorodriguez84.github.io/Hugo_md/en/line-elements/enfasis/index.html</guid>
+      <description>Markdown uses asterisks or underscores for emphasis.
+You will simply have to wrap words or texts in these symbols to get italics or bold.
+MARKDOWN RESULT *italics* cursive _italic_ cursive **bold** bold __bold__ bold Of course, if you want to use both types of emphasis, all you have to do is combine the syntax, wrapping the word between three asterisks or three underscores.
+MARKDOWN RESULT ***italics and bold*** italics and bold ___italics and bold___ italics and bold </description>
+    </item>
+  </channel>
+</rss>

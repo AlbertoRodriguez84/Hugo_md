@@ -1,0 +1,23 @@
+baseURL = 'https://albertorodriguez84.github.io/Hugo_md/'
+defaultContentLanguage = 'es'
+title = 'Práctica 1 DWES - Uso de Markdown'
+theme =['relearn']
+
+
+
+[Languages]
+    [Languages.es]
+        title = "Ejemplo para el uso de idiomas"
+        weight = 1
+        languageName = "Español"
+        ContentDir="/content/sp"
+    [Languages.en]
+        title = "Example use language"
+        weight = 2
+        languageName = "English"
+        ContentDir="/content/en"
+   [Languages.fr]
+        title = "Exemple d'utilisation des langues"
+        weight = 3
+        languageName = "Français"
+        ContentDir="/content/fr"
